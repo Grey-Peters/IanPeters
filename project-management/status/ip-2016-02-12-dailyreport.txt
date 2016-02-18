@@ -1,0 +1,12 @@
+What have you completed since the last report?
+>Organized meet-up to do initial server setup and implementation of insertion code.
+>Identified glaring flaws in using $_GET in design, which will require the front-end groups to deal with users potentially breaking URLs (too many character potential), on top of needing an encryption solution to avoid leaving the OAuth key and secret exposed in the URL.
+	-I have to emphasize how ridiculously insecure this system will be without an encryption solution.
+>Emailed the client in regards to getting access to his server/keys, and to request his help in regards to an ecryption solution that works between Python, Java, and Javascript/Angular.
+
+What do you plan to complete by the next report?
+>Polish python database insertion code
+>Continue to research solutions to $_GET edge cases.
+
+What is getting in your way?
+>Currently normal workflow.

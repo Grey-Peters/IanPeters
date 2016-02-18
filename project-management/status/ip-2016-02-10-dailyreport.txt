@@ -1,0 +1,10 @@
+What have you completed since the last report?
+>Planned for completion of insertion code (and placement on a server) by next Monday.
+
+What do you plan to complete by the next report?
+>Work more on python database insertion code
+>Research solutions to $_GET edge cases.
+>Discuss account access with client, as well as edge cases.
+
+What is getting in your way?
+>Potential edge-cases involving $_GET have my group concerned about security, and the potential to easily break entire documents by having too many characters in tags.

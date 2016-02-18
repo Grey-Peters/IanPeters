@@ -1,0 +1,11 @@
+What have you completed since the last report?
+>Met with group, spending multiple hours beginning to integrate and test code.
+	>Worked with current codebase to refine interactions between methods, begin server integration.
+
+What do you plan to complete by the next report?
+>Polish python database insertion code
+>Continue research on headers for securely passing information in $_GET
+>Continue integration process
+
+What is getting in your way?
+>Currently normal workflow.

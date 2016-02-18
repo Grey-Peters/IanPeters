@@ -1,0 +1,10 @@
+What have you completed since the last report?
+>Completed JSON formatting and sent off to other groups.
+	>Included a quick guide on what to store and send (sans OAuth requirements)
+
+What do you plan to complete by the next report?
+>Work more on python database insertion code
+>Discuss with group about combining and testing code in a test environment.
+
+What is getting in your way?
+>Limited time kept me from putting in as much work on the python code as I would've liked the last few days. I prioritized the JSON work to make sure other groups were on the same page.

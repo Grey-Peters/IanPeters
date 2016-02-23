@@ -1,0 +1,10 @@
+What have you completed since the last report?
+>Met with group, worked to polish insertion code (effectively complete).
+>Identified major security flaw, which will require a level of authetication before OAuth. The current code allows *any* Twitter user to log in, not just approved users. Relatively simple solution, but good that we caught it now.
+
+What do you plan to complete by the next report?
+>Work on finalizing database query code.
+>Brainstorm solutions to authentication problem.
+
+What is getting in your way?
+>Currently normal workflow.

@@ -1,0 +1,9 @@
+What have you completed since the last report?
+>Arranged for group meeting on Monday for further code integration
+>Gathered a few solutions to authentication problem.
+
+What do you plan to complete by the next report?
+>Work on finalizing database query code.
+
+What is getting in your way?
+>I was sick for more than a day, and my wife got sick shortly after. This has left me with limited time while recovering and taking care of the kid.

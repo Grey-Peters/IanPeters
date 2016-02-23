@@ -1,0 +1,12 @@
+What have you completed since the last report?
+>Met with group to complete a feature (inserting records into database)
+>Completed database insertion code.
+	>Included major fix to search functionality being written.
+	>DocumentDB does not support date comparitors. Swapped to epoch in miliseconds.
+
+What do you plan to complete by the next report?
+>Return to work on database query code as next feature.
+>Meet with group and present our findings to other groups Tuesday.
+
+What is getting in your way?
+>Had to fix a major issue with the way we had planned queries, as documentdb does not support an industry standard.

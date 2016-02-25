@@ -1,0 +1,11 @@
+What have you completed since the last report?
+>Presented with group in class
+>Received feedback from client regarding his preferences for the operation of sending data.
+>Applied client preferences on headers to code with group (headers now in use).
+>Planned changes to record retrieval code.
+
+What do you plan to complete by the next report?
+>Record retrieval code.
+
+What is getting in your way?
+>Nothing currently blocking outside of available mid-week time. Normal workflow.

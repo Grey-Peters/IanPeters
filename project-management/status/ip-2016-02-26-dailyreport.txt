@@ -1,0 +1,11 @@
+What have you completed since the last report?
+>All-but completed record retrieval code. 
+
+What do you plan to complete by the next report?
+>Record retrieval code polish, for integration monday
+>Reverse order of result elements on "back" click.
+	-Issue exists because of the "descending" requirement to get the nearest 20 records with "less than."
+>Assure return values are correct.
+
+What is getting in your way?
+>Nothing currently blocking.

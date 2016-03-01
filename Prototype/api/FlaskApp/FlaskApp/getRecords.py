@@ -1,4 +1,4 @@
-import json
+import flask
 
 def getRecords(user, lastID, direction, tags)
 

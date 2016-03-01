@@ -1,0 +1,11 @@
+What have you completed since the last report?
+>Inserted jsonify logic and reversal code (for "last 20" clicks).
+
+
+What do you plan to complete by the next report?
+>Test code and insert db credentials.
+>Work with group to integrate code, as needed.
+
+
+What is getting in your way?
+>Most of group lacked time to meet tonight, meaning integration had to take a different path this time through.

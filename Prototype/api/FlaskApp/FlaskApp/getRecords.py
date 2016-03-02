@@ -1,22 +1,23 @@
-import flask
-
 def getRecords(user, lastID, direction, tags)
 
-	var dir = ">";
-	order = "ASCENDING";
+	dir = ">";
+	order = "ASC";
 
-	if direction == "back":
+	if direction == True:
 		dir = "<";
-		order = "DESCENDING";
-
-	var queryString = "Select TOP 20 file_name, photo_url, photo_id, tags from ".DBname." Where photo_id".dir.lastID." and tags = ".tags." ORDER BY ".order";";
+		order = "DESC";
+	
+	tagString = "["+', '.join(tags)+"]";
+	
+	queryString = 'SELECT TOP 20 '+collectionName+'.user_id, testcollect.photo_id, '+collectionName+'.file_name, '+collectionName+'.photo_url, '+collectionName+'.tags FROM '+collectionName+' where '+collectionName+'.user_id = ".'+user+'" and '+collectionName+'.tags = '+tagString+' ORDER BY testcollect.photo_id '+order+';';
 	
 	itterResult =  QueryDocuments(collection_link, queryString);
 	
 	sorted(itterResult, key="photo_id");
 	
 	jsnOb = flask.jsonify(**itterResult);
-	if(direction == "back"){
+	
+	if(direction == True){
 		return sorted(jsnOb, key="photo_id")
 	}
 	return jsnOb;

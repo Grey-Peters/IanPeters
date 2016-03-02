@@ -7,7 +7,7 @@ def getRecords(user, lastID, direction, tags)
 		dir = "<";
 		order = "DESC";
 	
-	tagString = "["+', '.join(tags)+"]";
+	tagString = "[\""+'", "'.join(tags)+"\"]";
 	
 	queryString = 'SELECT TOP 20 '+collectionName+'.user_id, testcollect.photo_id, '+collectionName+'.file_name, '+collectionName+'.photo_url, '+collectionName+'.tags FROM '+collectionName+' where '+collectionName+'.user_id = ".'+user+'" and '+collectionName+'.tags = '+tagString+' ORDER BY testcollect.photo_id '+order+';';
 	

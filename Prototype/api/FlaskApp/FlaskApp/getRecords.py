@@ -9,7 +9,7 @@ def getRecords(user, lastID, direction, tags)
 	
 	tagString = "[\""+'", "'.join(tags)+"\"]";
 	
-	queryString = 'SELECT TOP 20 '+collectionName+'.user_id, '+collectionName+'.photo_id, '+collectionName+'.file_name, '+collectionName+'.photo_url, '+collectionName+'.tags FROM '+collectionName+' where '+collectionName+'.user_id = ".'+user+'" and '+collectionName+'.tags = '+tagString+' ORDER BY '+collectionName+'.photo_id '+order+';';
+	queryString = 'SELECT TOP 20 '+collectionName+'.user_id, '+collectionName+'.photo_id, '+collectionName+'.file_name, '+collectionName+'.photo_url, '+collectionName+'.tags FROM '+collectionName+' where '+collectionName+'.user_id = "'+user+'" and '+collectionName+'.tags = '+tagString+' ORDER BY '+collectionName+'.photo_id '+order+';';
 	
 	itterResult =  QueryDocuments(collection_link, queryString);
 	

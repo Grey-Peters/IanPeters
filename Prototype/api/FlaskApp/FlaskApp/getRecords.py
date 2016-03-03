@@ -14,7 +14,10 @@ def getRecords(user, lastID, direction, tags)
 			dir = "<";
 			order = "DESC";
 		
-		tagString = "[\""+'", "'.join(tags)+"\"]";
+		if tags == NULL:
+			tagString = "[]";
+		else:
+			tagString = "[\""+'", "'.join(tags)+"\"]";
 		
 		client = document_client.DocumentClient(db_client, {'masterKey': db_client_key});
 

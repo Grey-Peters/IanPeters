@@ -1,0 +1,11 @@
+What have you completed since the last report?
+>Completed debug of recall code, should be ready to run.
+>Did work on metadata delete code (and showed a query won't work), handed off work to RJ.
+
+
+What do you plan to complete by the next report?
+>Work with group to identify and complete remaining elements needed to integrate with UI teams.
+
+
+What is getting in your way?
+>Had a number of notable bugs I missed, and for some reason my system hasn't been committing all of my work to github. Going to be more careful with commits.

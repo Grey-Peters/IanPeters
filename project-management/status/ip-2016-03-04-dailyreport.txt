@@ -1,0 +1,12 @@
+What have you completed since the last report?
+>Worked with RJ to identify two bugs in recall code:
+	1. Iterable could not be converted to list. Needs to be a for: statement.
+	2. Method call is not properly connecting to database. Rejecting connection string for reasons unknown
+
+
+What do you plan to complete by the next report?
+>Fix these bugs.
+
+
+What is getting in your way?
+>My VM has broken, and my flask directory is in disarray. I need to clean up my file system to do local testing.

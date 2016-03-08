@@ -1,0 +1,12 @@
+What have you completed since the last report?
+> Worked to find reason the call wasn't connected to the database. RJ beat me to the solution, but I was unaware.
+> Solved query issue, allowing for narrowing rather than 100% matches.
+> Reset file structure for testing in local directory.
+
+
+What do you plan to complete by the next report?
+> Work on integration process.
+
+
+What is getting in your way?
+> Group had very limited communication this week due to outside factors. This led to me unknowingly spending a pile of time duplicating work and research already done by RJ.

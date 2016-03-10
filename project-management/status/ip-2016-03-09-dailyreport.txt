@@ -1,0 +1,12 @@
+What have you completed since the last report?
+> Attended class, attempted to help other groups with their server issues where possible.
+	- Folks should be on a Tier 1 DocumentDB collection (MAYBE 2), to avoid draining their Azure accounts.
+> Chatted with RJ regarding the solution to the problem we were both researching: how to properly identify a database and collection for the QueryCollection function, used for our own Get method (and now, for Put and Delete).
+> Learned about the access information that needs to be passed in the response header (thanks for that!)
+
+What do you plan to complete by the next report?
+> Support integration process with mobile and web teams.
+> Begin commenting our code base for future users.
+
+What is getting in your way?
+> Waiting on web team to be ready for even partial testing directly from their UI.

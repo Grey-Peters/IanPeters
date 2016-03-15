@@ -1,0 +1,11 @@
+What have you completed since the last report?
+> Reviewed codebase in preparation for integration and comments.
+> Coordinated briefly with RJ to make sure we were ready to finalize with the mobile and web teams.
+
+What do you plan to complete by the next report?
+> Redo file structure to fully mirror our group's project, once we actually have a pull request to the main branch without merge conflicts.
+> Support integration process with mobile and web teams (hoping this can be started heavily in class).
+> Begin commenting our code base for future users.
+
+What is getting in your way?
+> Had limited home workspace time for the weekend due to installation of new wiring and internet service for my home office.

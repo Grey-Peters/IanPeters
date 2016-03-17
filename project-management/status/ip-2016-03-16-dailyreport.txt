@@ -1,0 +1,13 @@
+What have you completed since the last report?
+> Briefly helped mobile team outside of class hours.
+	- Identified a redundancy in their Get calls, where they were attempting to send things they shouldn't, and calculating things they shouldn't.
+> Identified and provided a fix for a bug in our code where deleting all tags or uploading without tags caused a crash.
+> Unsuccessfully attempted to help the web team, along with RJ, to upload their images.
+
+What do you plan to complete by the next report?
+> Work on documentation.
+> Complete commenting our code base for future users, as needed.
+> Prepare for a re-structure of my code base to avoid merge conflicts (as we had RJ do to make a pull request yesterday).
+
+What is getting in your way?
+> No blockers for this reporting period.
